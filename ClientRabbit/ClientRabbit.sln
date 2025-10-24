@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientRabbit", "ClientRabbit\ClientRabbit.csproj", "{B96A126B-C2CD-4560-BE44-76FD1600D748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96A126B-C2CD-4560-BE44-76FD1600D748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96A126B-C2CD-4560-BE44-76FD1600D748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96A126B-C2CD-4560-BE44-76FD1600D748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96A126B-C2CD-4560-BE44-76FD1600D748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BED14CB9-029A-4B69-ABDB-99E2726F6C3D}
+	EndGlobalSection
+EndGlobal
